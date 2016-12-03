@@ -12,4 +12,4 @@ Right click to export the selected glyphs; or use the batch export from the menu
 
 ## Dwonload
 
-<a href="https://itunes.apple.com/us/app/webfont/id1181350496">App Store</a>
+<a href="https://itunes.apple.com/us/app/webfont/id1181350496?l=zh&ls=1&mt=12">App Store</a>
