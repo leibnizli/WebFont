@@ -10,6 +10,6 @@ WebFont is a font processing client. It can export specific glyphs to SVG and PN
 
 Right click to export the selected glyphs; or use the batch export from the menu.
 
-## Dwonload
-<a href="https://itunes.apple.com/us/app/id1181350496">App Store(English)</a>
-<a href="https://itunes.apple.com/cn/app/id1181350496">App Store(简体中文)</a>
+## Dwonload from App Store
+* <a href="https://itunes.apple.com/us/app/id1181350496">English</a>
+* <a href="https://itunes.apple.com/cn/app/id1181350496">简体中文</a>
