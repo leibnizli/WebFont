@@ -1,7 +1,7 @@
 # WebFont
 WebFont is a font processing client. It can export specific glyphs to SVG and PNG files. The color and size of the output can be set in preferences.
 
-![webfont8](https://cloud.githubusercontent.com/assets/1193966/20759888/4e71feac-b759-11e6-8227-3e63e0940f28.png)
+![webFont-mini-1](https://user-images.githubusercontent.com/1193966/99191185-006b0480-27a6-11eb-83db-03ad8da655c2.png)
 
 ## Keyboard shortcuts:
 
