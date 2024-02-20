@@ -4,7 +4,7 @@ English | [简体中文](./README-zh-CN.md)
 
 FontMagic is a font processing client. It can export specific glyphs to SVG and PNG files. The color and size of the output can be set in preferences.
 
-![webFont-mini-1](https://user-images.githubusercontent.com/1193966/99191185-006b0480-27a6-11eb-83db-03ad8da655c2.png)
+![webFont 2](https://github.com/leibnizli/WebFont/assets/1193966/de9131c2-d5e4-4444-a3ee-2894c44c73ee)
 
 ## Keyboard shortcuts:
 

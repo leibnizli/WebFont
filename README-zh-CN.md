@@ -3,7 +3,7 @@
 
 FontMagic是一个macOS平台的字体处理客户端，它可以把字体文件中的指定字形导出为svg、pdf和png格式的文件，你可以在偏好设置中指定任意的颜色和尺寸。
 
-![webFont-mini-1](https://user-images.githubusercontent.com/1193966/99191185-006b0480-27a6-11eb-83db-03ad8da655c2.png)
+![webFont 2](https://github.com/leibnizli/WebFont/assets/1193966/de9131c2-d5e4-4444-a3ee-2894c44c73ee)
 
 ## 快捷键
 
